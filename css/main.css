@@ -1,0 +1,33 @@
+main
+{
+  margin:0;
+  font-family:helvetica;
+
+}
+nav a {
+  color: #ED6A5E;
+  font-family: arial black;
+}
+
+nav a: hover {
+  text-decoration: underline;
+}
+
+nav a: visited {
+    color: black;
+  }
+
+h2{
+
+color: #6B5F67;
+Font-size: large;
+  font-family:arial black ;
+}
+
+body{
+background-color: #CEB5A7;
+}
+
+figcaption {
+  font-size: 80%;
+}
